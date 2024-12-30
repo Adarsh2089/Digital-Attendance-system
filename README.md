@@ -2,4 +2,4 @@
 
 ** DAY - 01 
 
-** Learned about Variables and DATA Types 
+** Learned about -  Variables and DATA Types , 
